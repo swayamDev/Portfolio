@@ -20,35 +20,25 @@ export const BRAND_NAME = "Swayam";
 
 export const PROJECTS = [
   {
-    name: "SaaSify",
-    image: project1,
-    href: "https://saasify-rho.vercel.app/",
-  },
-  {
-    name: "Ethical Feedback Collector",
-    image: project2,
-    href: "https://ethical-feedback-collector.vercel.app/",
-  },
-  {
-    name: "Contrast Studio",
-    image: project3,
-    href: "https://color-contrast-checker-six.vercel.app/",
-  },
-  {
-    name: "ZentroLab",
-    image: project4,
-    href: "https://zentrolab.vercel.app/",
-  },
-  {
-    name: "Creativerse",
-    image: project5,
-    href: "https://creativerse-ten.vercel.app/",
-  },
-  {
-    name: "PawCity",
-    image: project6,
-    href: "https://petfriendlycity.netlify.app/",
-  },
+  name: "PawCity",
+  image: project6,
+  href: "https://petfriendlycity.netlify.app/",
+},
+{
+  name: "Therapist Website",
+  image: project1,
+  href: "https://blakepsychology.vercel.app/",
+},
+{
+  name: "Strike",
+  image: project2,
+  href: "https://strikehq.netlify.app/",
+},
+{
+  name: "EcoLife Tracker",
+  image: project3,
+  href: "https://swayamdev.github.io/ecolife-tracker/",
+},
 ];
 
 export const SOCIAL_LINKS = [
